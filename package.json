@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s04pctg",
-  "description": "https://scrimba.com/frontend-path-c0j/~011t",
+  "name": "DummyStore",
+  "description": "A minimalist e-commerce app for understanding Supabase authentication.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
